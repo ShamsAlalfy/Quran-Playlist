@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Quran Playlist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|D:\\Projects\\Quran Playlist\\Quran Playlist\\Playlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|solutionrelative:Quran Playlist\\Playlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|D:\\Projects\\Quran Playlist\\Quran Playlist\\mainFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|solutionrelative:Quran Playlist\\mainFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|D:\\Projects\\Quran Playlist\\Quran Playlist\\AllPlaylists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|solutionrelative:Quran Playlist\\AllPlaylists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|D:\\Projects\\Quran Playlist\\Quran Playlist\\DLL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|solutionrelative:Quran Playlist\\DLL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|D:\\Projects\\Quran Playlist\\Quran Playlist\\Quran Playlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|solutionrelative:Quran Playlist\\Quran Playlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|D:\\Projects\\Quran Playlist\\Quran Playlist\\Surah.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|solutionrelative:Quran Playlist\\Surah.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|D:\\Projects\\Quran Playlist\\Quran Playlist\\Surah.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|solutionrelative:Quran Playlist\\Surah.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|D:\\Projects\\Quran Playlist\\Quran Playlist\\AllPlaylists.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|solutionrelative:Quran Playlist\\AllPlaylists.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|D:\\Projects\\Quran Playlist\\Quran Playlist\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|solutionrelative:Quran Playlist\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|D:\\Projects\\Quran Playlist\\Quran Playlist\\mainFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|solutionrelative:Quran Playlist\\mainFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|D:\\Projects\\Quran Playlist\\Quran Playlist\\Playlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F290E2E9-A3AC-4943-BFA5-D02ADEFD6923}|Quran Playlist\\Quran Playlist.vcxproj|solutionrelative:Quran Playlist\\Playlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Node.h",
+              "DocumentMoniker": "D:\\Projects\\Quran Playlist\\Quran Playlist\\Node.h",
+              "RelativeDocumentMoniker": "Quran Playlist\\Node.h",
+              "ToolTip": "D:\\Projects\\Quran Playlist\\Quran Playlist\\Node.h",
+              "RelativeToolTip": "Quran Playlist\\Node.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T19:32:27.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Playlist.cpp",
+              "DocumentMoniker": "D:\\Projects\\Quran Playlist\\Quran Playlist\\Playlist.cpp",
+              "RelativeDocumentMoniker": "Quran Playlist\\Playlist.cpp",
+              "ToolTip": "D:\\Projects\\Quran Playlist\\Quran Playlist\\Playlist.cpp",
+              "RelativeToolTip": "Quran Playlist\\Playlist.cpp",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAJYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T20:46:00.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllPlaylists.cpp",
+              "DocumentMoniker": "D:\\Projects\\Quran Playlist\\Quran Playlist\\AllPlaylists.cpp",
+              "RelativeDocumentMoniker": "Quran Playlist\\AllPlaylists.cpp",
+              "ToolTip": "D:\\Projects\\Quran Playlist\\Quran Playlist\\AllPlaylists.cpp",
+              "RelativeToolTip": "Quran Playlist\\AllPlaylists.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T17:43:54.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quran Playlist.cpp",
+              "DocumentMoniker": "D:\\Projects\\Quran Playlist\\Quran Playlist\\Quran Playlist.cpp",
+              "RelativeDocumentMoniker": "Quran Playlist\\Quran Playlist.cpp",
+              "ToolTip": "D:\\Projects\\Quran Playlist\\Quran Playlist\\Quran Playlist.cpp",
+              "RelativeToolTip": "Quran Playlist\\Quran Playlist.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T18:30:55.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AllPlaylists.h",
+              "DocumentMoniker": "D:\\Projects\\Quran Playlist\\Quran Playlist\\AllPlaylists.h",
+              "RelativeDocumentMoniker": "Quran Playlist\\AllPlaylists.h",
+              "ToolTip": "D:\\Projects\\Quran Playlist\\Quran Playlist\\AllPlaylists.h",
+              "RelativeToolTip": "Quran Playlist\\AllPlaylists.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T17:02:14.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mainFunctions.h",
+              "DocumentMoniker": "D:\\Projects\\Quran Playlist\\Quran Playlist\\mainFunctions.h",
+              "RelativeDocumentMoniker": "Quran Playlist\\mainFunctions.h",
+              "ToolTip": "D:\\Projects\\Quran Playlist\\Quran Playlist\\mainFunctions.h",
+              "RelativeToolTip": "Quran Playlist\\mainFunctions.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T21:20:57.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainFunctions.cpp",
+              "DocumentMoniker": "D:\\Projects\\Quran Playlist\\Quran Playlist\\mainFunctions.cpp",
+              "RelativeDocumentMoniker": "Quran Playlist\\mainFunctions.cpp",
+              "ToolTip": "D:\\Projects\\Quran Playlist\\Quran Playlist\\mainFunctions.cpp",
+              "RelativeToolTip": "Quran Playlist\\mainFunctions.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T22:11:36.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DLL.h",
+              "DocumentMoniker": "D:\\Projects\\Quran Playlist\\Quran Playlist\\DLL.h",
+              "RelativeDocumentMoniker": "Quran Playlist\\DLL.h",
+              "ToolTip": "D:\\Projects\\Quran Playlist\\Quran Playlist\\DLL.h",
+              "RelativeToolTip": "Quran Playlist\\DLL.h",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T19:37:57.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Surah.h",
+              "DocumentMoniker": "D:\\Projects\\Quran Playlist\\Quran Playlist\\Surah.h",
+              "RelativeDocumentMoniker": "Quran Playlist\\Surah.h",
+              "ToolTip": "D:\\Projects\\Quran Playlist\\Quran Playlist\\Surah.h",
+              "RelativeToolTip": "Quran Playlist\\Surah.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T19:45:48.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Surah.cpp",
+              "DocumentMoniker": "D:\\Projects\\Quran Playlist\\Quran Playlist\\Surah.cpp",
+              "RelativeDocumentMoniker": "Quran Playlist\\Surah.cpp",
+              "ToolTip": "D:\\Projects\\Quran Playlist\\Quran Playlist\\Surah.cpp",
+              "RelativeToolTip": "Quran Playlist\\Surah.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T19:50:04.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Playlist.h",
+              "DocumentMoniker": "D:\\Projects\\Quran Playlist\\Quran Playlist\\Playlist.h",
+              "RelativeDocumentMoniker": "Quran Playlist\\Playlist.h",
+              "ToolTip": "D:\\Projects\\Quran Playlist\\Quran Playlist\\Playlist.h",
+              "RelativeToolTip": "Quran Playlist\\Playlist.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T20:00:29.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
