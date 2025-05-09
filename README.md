@@ -9,6 +9,7 @@
 
 ---
 
+
 ##  **Description:**
 
 The **Quran Playlist Manager** is designed to help you efficiently store, organize, and listen to Quranic Surahs. Built entirely in `C++` with Object-Oriented Programming principles, it utilizes a custom-built `Doubly Linked List (DLL)` data structure for optimal memory usage and fast traversal in both directions.
@@ -22,6 +23,7 @@ You can easily create multiple playlists, add Surahs to them, reorder the Surahs
 * Audio Playback in C++ with the `irrKlang` library
 
 ---
+
 
 ##  **Features:**
 
@@ -67,6 +69,7 @@ You can easily create multiple playlists, add Surahs to them, reorder the Surahs
 
 ---
 
+
 ##  **Requirements:**
 
 * C++ Compiler (e.g., g++)
@@ -74,7 +77,6 @@ You can easily create multiple playlists, add Surahs to them, reorder the Surahs
 * irrKlang library for audio playback (`.dll` or `.so` files may be required for execution)
 
 ---
-
 
 
 ##  **Implementation Details:**
@@ -92,6 +94,7 @@ You can easily create multiple playlists, add Surahs to them, reorder the Surahs
 
 ---
 
+
 ## **Complexity Analysis:**
 
 | Operation            | Time Complexity | Space Complexity |
@@ -101,7 +104,5 @@ You can easily create multiple playlists, add Surahs to them, reorder the Surahs
 | Search (By Name)     | O(n)            | O(1)             |
 | Resize (Linked List) | O(1)            | O(n)             |
 | Reverse Traversal    | O(n)            | O(1)             |
-
----
 
 
